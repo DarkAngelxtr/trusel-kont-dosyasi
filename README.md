@@ -2,7 +2,7 @@ HİLE KONTROL KURALLARI
 
 Hile Kontrol hakkında bilgi almak için aşşağıdaki yazıları okuyabilirsiniz!
 
-Hile Kontrolü nedir? AAC'ler bir kişinin hile olduğundan şüphelenip bir oyuncuyu hile kontrolüne alınca kontrole alınan oyuncunun AAC ye anydesk kodu iletmelidir ,bu AAC nin bilgisayarınızda kısa süreli dosyaları kontrol etmelerini sağlar.
+Hile Kontrolü nedir? AAC'ler bir kişinin hile olduğundan şüphelenip bir oyuncuyu hile kontrolüne alınca kontrole alınan oyuncunun AAC ye anydesk kodu iletmelidir, bu AAC nin bilgisayarınızda kısa süreli dosyaları kontrol etmelerini sağlar.
 
 Hile Kontrolünde Haklarınız Neler?
 
